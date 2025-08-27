@@ -4,14 +4,13 @@
 
 # Hi there, I'm Shafwan Ilham Dzaky 👋
 
-> FullStack Web Developer | IT Enthusiast
+> FullStack Web Developer | DevOps | Cybersecurity Enthusiast
 
 ## 🚀 About Me
 
 I'm a passionate FullStack Developer focused on creating clean, efficient web solutions. I enjoy tackling complex problems and continuously learning new technologies to improve my skills.
 
 <!-- Ryo -->
-
 <img
   align="right"
   src="https://github.com/user-attachments/assets/e43e5661-f045-41c8-970c-af7583ab018a"
@@ -21,7 +20,7 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 
 <!-- - 🔭 Currently working on: [school project](https://github.com/szuryuu) -->
 
-- 🌱 Learning: Go for Web Development
+- 🌱 Learning: Golang
 - 👯 Looking to collaborate on: Open source web projects
 - 💬 Ask me about: Web development, Anime
 - 📧 Reach me at: [ilhamdzaky2007@gmail.com](mailto:ilhamdzaky2007@gmail.com)
@@ -82,9 +81,3 @@ Bash                       15 hrs 1 min    █▓░░░░░░░░░░�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/szuryuu/szuryuu/output/github-snake.svg" />
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/szuryuu/szuryuu/output/github-snake.svg" />
 </picture>
-
-<div align="center">
-    <img src="https://profile-counter.glitch.me/szuryuu/count.svg?" alt="Profile Views Counter" />
-</div>
-
----
