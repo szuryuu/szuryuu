@@ -37,7 +37,7 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,typescript,react,vue,svelte,tailwindcss" alt="Frontend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,vue,svelte,tailwindcss" alt="Frontend Tech Stack" />
 </p>
 
 <p align="left">
