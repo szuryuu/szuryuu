@@ -20,9 +20,9 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 
 <!-- - 🔭 Currently working on: [school project](https://github.com/szuryuu) -->
 
-- 🌱 Learning: Golang
-- 👯 Looking to collaborate on: Open source web projects
-- 📧 Reach me at: [ilhamdzaky2007@gmail.com](mailto:ilhamdzaky2007@gmail.com)
+- Learning: Golang
+- Looking to collaborate on: Open source web projects
+- Reach me at: [ilhamdzaky2007@gmail.com](mailto:ilhamdzaky2007@gmail.com)
 
 <!-- z-index and style won't work in GitHub -->
 
