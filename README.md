@@ -60,7 +60,7 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2025 - To: 29 October 2025
+From: 03 June 2025 - To: 30 October 2025
 
 Total Time: 269 hrs 25 mins
 
