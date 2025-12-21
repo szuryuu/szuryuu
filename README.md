@@ -60,15 +60,15 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2025 - To: 19 December 2025
+From: 03 June 2025 - To: 20 December 2025
 
-Total Time: 327 hrs 36 mins
+Total Time: 330 hrs 39 mins
 
-Vue.js                     76 hrs 59 mins  ██████░░░░░░░░░░░░░░░░░░░   23.43 %
-JavaScript                 39 hrs 9 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
-Bash                       26 hrs 50 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-Go                         25 hrs 21 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-TypeScript                 24 hrs 40 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Vue.js                     79 hrs 59 mins  ██████░░░░░░░░░░░░░░░░░░░   24.12 %
+JavaScript                 39 hrs 9 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+Bash                       26 hrs 50 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Go                         25 hrs 21 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+TypeScript                 24 hrs 40 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
 ```
 
 <!--END_SECTION:waka-->
