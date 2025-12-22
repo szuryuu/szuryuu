@@ -2,13 +2,11 @@
   <img src="ryo.gif" alt="GitHub Banner" width="100%" height="200" />
 </div> -->
 
-# Hi there, I'm Shafwan Ilham Dzaky 👋
+**Hi there, I'm Shafwan Ilham Dzaky**
 
-> FullStack Web Developer | DevOps | Cybersecurity Enthusiast
+I am currently focusing on three areas FullStack web development, DevOps, and cybersecurity. I am interested in these fields because they are closely connected and allow me to understand how applications are built, deployed, and secured end to end. By learning all three, I can design systems that are not only functional, but also scalable, reliable, and secure.
 
-## 🚀 About Me
-
-I'm a passionate FullStack Developer focused on creating clean, efficient web solutions. I enjoy tackling complex problems and continuously learning new technologies to improve my skills.
+<br>
 
 <!-- Ryo Overlay -->
 <!-- <img
@@ -19,10 +17,7 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
 /> -->
 
 <!-- - 🔭 Currently working on: [school project](https://github.com/szuryuu) -->
-
-- Learning: Golang
-- Looking to collaborate on: Open source web projects
-- Reach me at: [ilhamdzaky2007@gmail.com](mailto:ilhamdzaky2007@gmail.com)
+<!-- - Reach me at: [ilhamdzaky2007@gmail.com](mailto:ilhamdzaky2007@gmail.com) -->
 
 <!-- Social -->
 <!-- <div align="left">
@@ -50,6 +45,8 @@ I'm a passionate FullStack Developer focused on creating clean, efficient web so
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=szuryuu&theme=dark&hide_border=false" alt="GitHub Streak" width="50%" />
 </div> -->
 
+[![An image of @szuryuu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/szuryuu)](https://holopin.io/@szuryuu)
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -71,4 +68,5 @@ TypeScript                 24 hrs 40 mins  ██░░░░░░░░░░�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/szuryuu/szuryuu/output/github-snake.svg" />
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/szuryuu/szuryuu/output/github-snake.svg" />
 </picture>
+
 
