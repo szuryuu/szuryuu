@@ -4,7 +4,7 @@
 
 **Hi there, I'm Shafwan Ilham Dzaky**
 
-I am currently focusing on three areas FullStack web development, DevOps, and cybersecurity. I am interested in these fields because they are closely connected and allow me to understand how applications are built, deployed, and secured end to end. By learning all three, I can design systems that are not only functional, but also scalable, reliable, and secure.
+I am currently focusing on three areas: FullStack web development, DevOps, and CyberSecurity. I am interested in these fields because they are closely connected and allow me to understand how applications are built, deployed, and secured end to end. By learning all three, I can design systems that are not only functional, but also scalable, reliable, and secure.
 
 <br>
 
@@ -68,6 +68,7 @@ TypeScript                 24 hrs 40 mins  ██░░░░░░░░░░�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/szuryuu/szuryuu/output/github-snake.svg" />
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/szuryuu/szuryuu/output/github-snake.svg" />
 </picture>
+
 
 
 
