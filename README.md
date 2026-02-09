@@ -16,6 +16,7 @@ I am currently focusing on three areas: FullStack web development, DevOps, and C
   width="180"
 /> -->
 
+<!-- About -->
 <!-- - 🔭 Currently working on: [school project](https://github.com/szuryuu) -->
 <!-- - Reach me at: [ilhamdzaky2007@gmail.com](mailto:ilhamdzaky2007@gmail.com) -->
 
@@ -68,6 +69,7 @@ Bash                       28 hrs 56 mins  █▓░░░░░░░░░░�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/szuryuu/szuryuu/output/github-snake.svg" />
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/szuryuu/szuryuu/output/github-snake.svg" />
 </picture>
+
 
 
 
