@@ -16,10 +16,6 @@ I am currently focusing on three areas: FullStack web development, DevOps, and C
   width="180"
 /> -->
 
-<!-- About -->
-<!-- - 🔭 Currently working on: [school project](https://github.com/szuryuu) -->
-<!-- - Reach me at: [ilhamdzaky2007@gmail.com](mailto:ilhamdzaky2007@gmail.com) -->
-
 <!-- Social -->
 <!-- <div align="left">
   <a href="https://www.linkedin.com/in/shafwan-ilham-dzaky" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"></a>
