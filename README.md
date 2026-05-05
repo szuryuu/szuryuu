@@ -47,15 +47,15 @@ I am currently focusing on three areas: FullStack web development, DevOps, and C
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2025 - To: 03 May 2026
+From: 03 June 2025 - To: 04 May 2026
 
-Total Time: 607 hrs 32 mins
+Total Time: 608 hrs 17 mins
 
-Vue.js                     102 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
-Vue                        59 hrs 32 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
-JavaScript                 57 hrs 5 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-Terraform                  42 hrs 38 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-TypeScript                 42 hrs                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Vue.js                     102 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
+Vue                        59 hrs 48 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+JavaScript                 57 hrs 5 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+Terraform                  42 hrs 38 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+TypeScript                 42 hrs                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
 ```
 
 <!--END_SECTION:waka-->
