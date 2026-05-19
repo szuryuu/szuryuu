@@ -47,7 +47,7 @@ I am currently focusing on three areas: FullStack web development, DevOps, and C
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2025 - To: 17 May 2026
+From: 03 June 2025 - To: 18 May 2026
 
 Total Time: 636 hrs 31 mins
 
