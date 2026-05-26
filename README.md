@@ -4,7 +4,7 @@
 
 **Hi there, I'm Shafwan Ilham Dzaky**
 
-I am currently focusing on DevOps and CyberSecurity. I am interested in these fields because they are closely connected and allow me to understand how applications are built, deployed, and secured end to end. By learning all three, I can design systems that are not only functional, but also scalable, reliable, and secure.
+Currently, I am focusing on DevOps and cybersecurity. I am interested in these fields because they are closely interrelated and allow me to gain a comprehensive understanding of how applications are built, deployed, and secured. By learning all of this, I can design systems that not only function well but are also scalable, reliable, and secure.
 
 <br>
 
