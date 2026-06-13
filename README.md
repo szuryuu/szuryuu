@@ -9,12 +9,12 @@ Currently, I am focusing on DevOps and Cybersecurity. I am interested in these f
 <br>
 
 <!-- Ryo Overlay -->
-<!-- <img
+<img
   align="right"
   src="https://github.com/user-attachments/assets/e43e5661-f045-41c8-970c-af7583ab018a"
   alt="sleepy-ryo"
   width="180"
-/> -->
+/>
 
 <!-- Social -->
 <!-- <div align="left">
