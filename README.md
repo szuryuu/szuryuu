@@ -47,14 +47,14 @@ Currently, I am focusing on DevOps and Cybersecurity. I am interested in these f
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2025 - To: 07 July 2026
+From: 03 June 2025 - To: 08 July 2026
 
-Total Time: 718 hrs
+Total Time: 718 hrs 14 mins
 
 Vue.js                     102 hrs 48 mins       ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
 Vue                        89 hrs 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-JavaScript                 64 hrs 33 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-YAML                       53 hrs 4 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+JavaScript                 64 hrs 40 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+YAML                       53 hrs 4 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
 TypeScript                 45 hrs 3 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
 ```
 
