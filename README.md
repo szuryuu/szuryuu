@@ -47,7 +47,7 @@ Currently, I am focusing on DevOps and Cybersecurity. I am interested in these f
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2025 - To: 01 August 2026
+From: 03 June 2025 - To: 02 August 2026
 
 Total Time: 754 hrs 1 min
 
